@@ -1,6 +1,16 @@
 # cite
 cite for Bin Yang
 
+```
+@article{hu2024empowering,
+  title={Empowering Visible-Infrared Person Re-Identification with Large Foundation Models},
+  author={Hu, Zhangyi and Yang, Bin and Ye, Mang},
+  journal={Advances in Neural Information Processing Systems},
+  volume={37},
+  pages={117363--117387},
+  year={2024}
+}
+
 @inproceedings{yang2024shallow,
   title={Shallow-Deep Collaborative Learning for Unsupervised Visible-Infrared Person Re-Identification},
   author={Yang, Bin and Chen, Jun and Ye, Mang},
@@ -43,3 +53,12 @@ cite for Bin Yang
   year={2023},
   publisher={IEEE}
 }
+@inproceedings{yang2023top,
+  title={Top-k visual tokens transformer: Selecting tokens for visible-infrared person re-identification},
+  author={Yang, Bin and Chen, Jun and Ye, Mang},
+  booktitle={ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={1--5},
+  year={2023},
+  organization={IEEE}
+}
+```
