@@ -10,7 +10,15 @@ cite for Bin Yang
   pages={117363--117387},
   year={2024}
 }
-
+@inproceedings{wang2025tokenmatcher,
+  title={TokenMatcher: Diverse Tokens Matching for Unsupervised Visible-Infrared Person Re-Identification},
+  author={Wang, Xiao and Liu, Lekai and Yang, Bin and Ye, Mang and Wang, Zheng and Xu, Xin},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={8},
+  pages={7934--7942},
+  year={2025}
+}
 @inproceedings{yang2024shallow,
   title={Shallow-Deep Collaborative Learning for Unsupervised Visible-Infrared Person Re-Identification},
   author={Yang, Bin and Chen, Jun and Ye, Mang},
